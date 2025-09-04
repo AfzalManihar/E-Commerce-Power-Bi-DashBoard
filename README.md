@@ -27,16 +27,42 @@ This project is designed to achieve the following objectives:
 ---
 <img width="1325" height="743" alt="Screenshot 2025-09-04 112049" src="https://github.com/user-attachments/assets/5d4a1596-1e79-468c-ae44-d0fb5faf2d47" />
 
+---
+## Visualization Tools  
+
+- *Tool Used*: Power BI  
+- *Data Set Used*: https://github.com/AfzalManihar/Power-Bi-DashBoard-Project/blob/main/Details%20for%20BI.csv / https://github.com/AfzalManihar/Power-Bi-DashBoard-Project/blob/main/Orders%20for%20ms%20BI.csv
+
+This Power BI project uses a variety of visualization techniques including:  
+-  Bar Charts – for analyzing product category sales  
+-  Line Charts – for tracking sales trends over time  
+-  Donut/Pie Charts – for customer segmentation and product share  
+-  Maps – for region/country-wise sales distribution  
+-  Tree Maps – for identifying top-selling products and categories  
+
+These visuals are carefully designed to make complex sales data easily accessible, interactive, and visually engaging, helping businesses make data-driven decisions.  
+
+---
+
+## Conclusion  
+
+In today’s digital commerce era, businesses generate massive amounts of data from daily transactions.  
+Our *E-commerce Store Sales Analysis Dashboard* provides a clear view of:  
+- Revenue growth patterns  
+- Customer purchasing behavior  
+- Top-performing products and categories  
+- Regional demand distribution  
+
+This project empowers business owners, analysts, and decision-makers to uncover hidden insights, optimize product strategies, and enhance customer satisfaction. By leveraging the power of *Power BI*, this analysis highlights actionable opportunities for increasing sales and driving business growth.  
+
+---
+
+## Connect with Me  
+
+- *LinkedIn*: [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar/)  
+
+⭐ Don’t forget to follow and star the repository if you find it valuable!
 
 
 
 
-
-
-
-
-
-
-
-
-In This Project:- Analyze E-Commerce Sales Data Created Intractive Dashboard Using PowerBi .
