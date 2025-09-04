@@ -13,12 +13,12 @@ This project leverages tools like *Excel / Power BI / Python* to explore sales t
 
 This project is designed to achieve the following objectives:  
 
-- 📊 *Analyze overall sales trends* over months and years  
-- 🛒 *Identify top-selling products* and underperforming items  
-- 👥 *Segment customers* based on purchase patterns (new vs. returning, high-value vs. low-value)  
-- 🌍 *Understand regional/country-wise sales distribution*  
-- 💰 *Evaluate revenue contribution* from different product categories  
-- 📈 *Provide actionable insights* for improving marketing, inventory, and pricing strategies  
+-  Analyze overall sales trends* over months and years  
+-  *Identify top-selling products* and underperforming items  
+-  *Segment customers* based on purchase patterns (new vs. returning, high-value vs. low-value)  
+-  *Understand regional/country-wise sales distribution*  
+-  *Evaluate revenue contribution* from different product categories  
+-  *Provide actionable insights* for improving marketing, inventory, and pricing strategies  
 
 ---
 
