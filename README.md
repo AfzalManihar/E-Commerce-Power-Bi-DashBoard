@@ -61,7 +61,7 @@ This project empowers business owners, analysts, and decision-makers to uncover 
 
 ## Connect with Me  
 
-- *LinkedIn*: [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar/)  
+- *LinkedIn*: [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)  
 
 ⭐ Don’t forget to follow and star the repository if you find it valuable!
 
