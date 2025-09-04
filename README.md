@@ -30,7 +30,7 @@ This project is designed to achieve the following objectives:
 ---
 ## Visualization Tools  
 
-- *Tool Used*: Power BI  
+- *Tool used🛠️: Power BI 
 - *Data Set Used*: https://github.com/AfzalManihar/Power-Bi-DashBoard-Project/blob/main/Details%20for%20BI.csv / https://github.com/AfzalManihar/Power-Bi-DashBoard-Project/blob/main/Orders%20for%20ms%20BI.csv
 
 This Power BI project uses a variety of visualization techniques including:  
