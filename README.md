@@ -33,7 +33,7 @@ This project is designed to achieve the following objectives:
 - *Tool used🛠️: Power BI 
 - *Data Set Used*:[E-commerce Dataset](https://github.com/AfzalManihar/Power-Bi-DashBoard-Project/blob/main/Details%20for%20BI.csv)  
 - *Data Set Used*: [Details Dataset](https://github.com/AfzalManihar/Power-Bi-DashBoard-Project/blob/main/Orders%20for%20ms%20BI.csv)
-- *Data Set Used*:[Image Dataset](https://github.com/AfzalManihar/Power-Bi-DashBoard-Project/blob/main/Afzal%20Store.pbix)
+- *Data Set Used*:[Image Dataset](https://github.com/AfzalManihar/Power-Bi-DashBoard-Project/blob/main/dark-gradient%20for%20BI.jpg)
 
 This Power BI project uses a variety of visualization techniques including:  
 -  Bar Charts – for analyzing product category sales  
